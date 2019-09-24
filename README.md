@@ -4,4 +4,4 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 
 ![](https://raw.githubusercontent.com/MatteoGio/Asteroids-plus-plus/master/scrot.png)
 
-<b>[Enjoy!](https://matteogio.github.io/Asteroids-plus-plus/)</b>
+<b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
