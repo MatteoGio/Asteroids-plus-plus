@@ -5,11 +5,11 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 <img align="right" src="https://raw.githubusercontent.com/MatteoGiorgi/Asteroids-plus-plus/master/asteroid.gif">  
 
 ```
-    W - move forward  
-    A - steer left  
-    D - steer right  
-SPACE - fire  
-    M - drop bombs  
+  W - move forward  
+  A - steer left  
+  D - steer right  
+SPC - fire  
+  M - drop bombs  
 ```
 
 <b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
