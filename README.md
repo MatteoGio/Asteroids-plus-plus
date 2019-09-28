@@ -4,4 +4,8 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 
 ![](https://raw.githubusercontent.com/MatteoGio/Asteroids-plus-plus/master/scrot.png)
 
+| move forward | steer left | steer right | fire | drop bombs |
+|:------------:|:----------:|:-----------:|:----:|:----------:|
+|W             |A           |D            |SPACE |M           |
+
 <b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
