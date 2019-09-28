@@ -10,4 +10,4 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 + fire - `SPACE`
 + drop bombs - `M`
 
-<b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
+  <b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
