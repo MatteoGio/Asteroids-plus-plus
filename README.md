@@ -7,7 +7,6 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
   <img src="play.gif">
 </p>
 
-
 | Key            | Action       |
 |:--------------:|:------------:|
 | <kbd>w</kbd>   | move forward |
