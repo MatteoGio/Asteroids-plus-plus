@@ -2,7 +2,10 @@
 
 A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.wikipedia.org/wiki/Asteroids_%28video_game%29)</b> realized in JavaScript using <b>[P5.js](https://p5js.org/)</b> libraries.  
 
-<b>[<img align="center" width="640" height="466" src="play.gif">](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
+<p align="center">
+  <a href="https://matteogiorgi.github.io/Asteroids-plus-plus/">
+  <img src="play.gif">
+</p>
 
 | Key            | Action       |
 |:--------------:|:------------:|
