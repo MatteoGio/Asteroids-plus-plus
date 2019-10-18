@@ -7,12 +7,6 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
   <img src="play.gif">
 </p>
 
----
-
-| Key            | Action       |
-|:--------------:|:------------:|
-| <kbd>w</kbd>   | move forward |
-| <kbd>a</kbd>   | steer left   |
-| <kbd>d</kbd>   | steer right  |
-| <kbd>spc</kbd> | fire         |
-| <kbd>m</kbd>   | drop bombs   |
+| <kbd>w</kbd>   | <kbd>a</kbd> | <kbd>d</kbd> | <kbd>spc</kbd> | <kbd>m</kbd> |
+|:--------------:|:------------:|:------------:|:--------------:|:------------:|
+| move forward   | steer left   | steer right  | fire           | drop bombs   |
