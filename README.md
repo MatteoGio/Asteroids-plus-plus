@@ -6,7 +6,7 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 |:--------------:|:------------:|:------------:|:--------------:|:------------:|
 | move forward   | steer left   | steer right  | fire           | drop bombs   |
 
-<p align="center">
+<p align="left">
   <a href="https://matteogiorgi.github.io/Asteroids-plus-plus/">
   <img src="play.gif">
 </p>
