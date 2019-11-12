@@ -7,6 +7,6 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
   <img src="play.gif">
 </p>
 
-> | move forward   | steer left   | steer right  | fire           | drop bombs   |
-> |:--------------:|:------------:|:------------:|:--------------:|:------------:|
-> | <kbd>w</kbd>   | <kbd>a</kbd> | <kbd>d</kbd> | <kbd>spc</kbd> | <kbd>m</kbd> |
+| move forward   | steer left   | steer right  | fire           | drop bombs   |
+|:--------------:|:------------:|:------------:|:--------------:|:------------:|
+| <kbd>w</kbd>   | <kbd>a</kbd> | <kbd>d</kbd> | <kbd>spc</kbd> | <kbd>m</kbd> |
