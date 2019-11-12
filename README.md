@@ -8,6 +8,6 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 <kbd>a</kbd> = `steer left`\
 <kbd>d</kbd> = `steer right`\
 <kbd>spc</kbd> = `fire`\
-<kbd>m</kbd> = `drop bombs`\
+<kbd>m</kbd> = `drop bombs`
 
-<a href="https://matteogiorgi.github.io/Asteroids-plus-plus/">Enjoy!</a>
+<b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
