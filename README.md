@@ -6,7 +6,7 @@ This is a simple implementation of the famous arcade game <b>[Asteroids](https:/
 
 ---
 
-Use <kbd>w</kbd>, <kbd>a</kbd>, <kbd>d</kbd> to move around\
+Use <kbd>w</kbd>, <kbd>a</kbd>, <kbd>d</kbd> to move around;\
 <kbd>spc</kbd>, <kbd>m</kbd> to fire and drop bombs.
 
 <b>[Enjoy!](https://matteogiorgi.github.io/asteroids_plus_plus/)</b>
