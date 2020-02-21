@@ -11,3 +11,5 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 | <kbd>d</kbd> | steer right |
 | <kbd>spc</kbd> | fire |
 | <kbd>m</kbd> | drop bombs |
+
+<b>[Enjoy!](https://matteogiorgi.github.io/Asteroids-plus-plus/)</b>
