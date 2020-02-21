@@ -12,4 +12,4 @@ A simple implementation of the famous 1979 Atari game <b>[Asteroids](https://en.
 | <kbd>spc</kbd> | fire |
 | <kbd>m</kbd> | drop bombs |
 
-<b>[Enjoy!](https://matteogiorgi.github.io/asteroids-plus-plus/)</b>
+<b>[Enjoy!](https://matteogiorgi.github.io/asteroids_plus_plus/)</b>
