@@ -1,4 +1,4 @@
-# Asteroids-plus-plus
+# Asteroids++
 
 <img align="left" width="400" src="play.gif">
 
