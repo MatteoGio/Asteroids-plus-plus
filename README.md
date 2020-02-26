@@ -8,4 +8,4 @@ This is a simple implementation of the famous arcade game [Asteroids](https://en
 
 <img align="right" width="140" src="assets/super.gif">
 
-Use <kbd>w</kbd>, <kbd>a</kbd>, <kbd>d</kbd> to move around, <kbd>spc</kbd>, <kbd>m</kbd> to fire and drop bombs. [Enjoy!](https://matteogiorgi.github.io/asteroids_plus_plus/src)
+Use <kbd>w</kbd>, <kbd>a</kbd>, <kbd>d</kbd> to move around and <kbd>spc</kbd>, <kbd>m</kbd> to fire and drop bombs. [Enjoy!](https://matteogiorgi.github.io/asteroids_plus_plus/src)
