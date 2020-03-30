@@ -1,14 +1,14 @@
 name: Matteo Giorgi
 output_dir: "."
 navbar:
-    title: "👾"
+    title: "👾 Astro"
     left:
         - text: "🌍 Home"
           href: https://matteogiorgi.github.io
         - text: "📚 GitHub"
           href: https://github.com/MatteoGiorgi
     right:
-        - text: "📫 mail me"
+        - text: "📫 Mail"
           href: mail.html
 output:
     html_document:
