@@ -1,0 +1,20 @@
+name: Matteo Giorgi
+output_dir: "."
+navbar:
+    title: "👾"
+    left:
+        - text: "🌍 Home"
+          href: https://matteogiorgi.github.io
+        - text: "📚 GitHub"
+          href: https://github.com/MatteoGiorgi
+    right:
+        - text: "📫 mail me"
+          href: mail.html
+output:
+    html_document:
+        theme: "readable"
+        includes:
+            in_header: assets/header.html
+        toc: false
+        highlight: textmate
+
