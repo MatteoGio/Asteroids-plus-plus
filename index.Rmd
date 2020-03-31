@@ -16,5 +16,5 @@ This one is a replica (with few additions) and it is written in JavaScript using
 
 
 
-[^1]: I really do not like JavaScript but P5.js has well made site, good documentation and even an online editor. Give it a chance: [click-clack](https://p5js.org/).
+[^1]: I really do not like JavaScript but P5.js has a good documentation and even an online editor. Give it a chance: [click-clack](https://p5js.org/).
 
