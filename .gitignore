@@ -1,0 +1,5 @@
+*.Rmd
+assets/header.html
+_site.yml
+knit_site.r
+
