@@ -1,7 +1,15 @@
 # Asteroids++
 
-<img align="right" width="500px" src="assets/play.gif"/>
+<img align="right" width="40%" src="assets/play.gif"/>
 
 This is a simple implementation of the famous arcade game [Asteroids](https://en.wikipedia.org/wiki/Asteroids_%28video_game%29) published by Atary in 1979. It is here realized in JavaScript using [P5.js](https://p5js.org/) libraries.
 
-Fell free to [try it](https://matteogiorgi.github.io/asteroids_plus_plus/src) using <kbd>w</kbd>, <kbd>a</kbd>, <kbd>d</kbd> to move around (no you can't move backwards) and <kbd>spc</kbd>, <kbd>m</kbd> to fire and drop bombs, enjoy!
+Just to try it using
+
++ <kbd>w</kbd> move forward
++ <kbd>a</kbd> steere left
++ <kbd>d</kbd> steere right
++ <kbd>spc</kbd> fire
++ <kbd>m</kbd> drop bombs
+
+[enjoy](https://matteogiorgi.github.io/asteroids_plus_plus/src)!
