@@ -7,8 +7,8 @@ This is a simple implementation of the famous arcade game [Asteroids](https://en
 Just to try it using
 
 + <kbd>w</kbd> move forward
-+ <kbd>a</kbd> steere left
-+ <kbd>d</kbd> steere right
++ <kbd>a</kbd> steer left
++ <kbd>d</kbd> steer right
 + <kbd>spc</kbd> fire
 + <kbd>m</kbd> drop bombs
 
