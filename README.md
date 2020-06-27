@@ -10,4 +10,4 @@ This is a simple implementation of the famous arcade game [Asteroids](https://en
 + <kbd>spc</kbd> fire
 + <kbd>m</kbd> drop bombs
 
-[Enjoy ;)](https://matteogiorgi.github.io/asteroids_plus_plus/src)!
+[Enjoy](https://matteogiorgi.github.io/asteroids_plus_plus/src)!
