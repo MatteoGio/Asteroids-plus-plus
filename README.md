@@ -9,5 +9,7 @@ This is a simple implementation of the famous arcade game [Asteroids](https://en
 + <kbd>d</kbd> steer right
 + <kbd>spc</kbd> fire
 + <kbd>m</kbd> drop bombs
++ 😨 a bomb is engaged when it turns red
++ 😱 firing at the bombs makes them bigger
 
 [Enjoy](https://matteogiorgi.github.io/asteroids_plus_plus/src)!
