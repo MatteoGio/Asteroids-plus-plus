@@ -10,4 +10,4 @@ This is a simple implementation of the famous arcade game [Asteroids](https://en
 + 😨 a bomb is engaged when it turns red
 + 😱 firing at the bombs makes them bigger
 
-[Enjoy](https://matteogiorgi.github.io/asteroids_plus_plus/src)!
+[Enjoy](https://matteogiorgi.github.io/asteroids_plus_plus/src) of [click clack](http://matteogiorgi.github.io) for more info.
